@@ -22,7 +22,7 @@ I love building scalable and efficient web applications, solving **DSA problems*
 
 ### ⚙️ Tools & Others  
 🔹 **Version Control**: Git, GitHub  
-🔹 **Code Management**: LeetCode, CodeChef  
+🔹 **Code Management**: LeetCode, CodeChef, GFG, InterviewBit, Stackblitz  
 🔹 **Learning**: Kubernetes, AI/ML  
 
 ---
