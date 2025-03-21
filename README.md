@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Vishal Pathak | Full Stack Developer | DevOps Enthusiast</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&lines=Full+Stack+Developer;DevOps+Enthusiast;AI+Explorer;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&lines=Full+Stack+Developer;DevOps+Enthusiast;Hackathon+Explorer;Open+Source+Contributor" />
 </p>
 
 ## 👋 About Me  
@@ -40,7 +40,7 @@ I love building scalable and efficient web applications, solving **DSA problems*
 ✅ **Competitive Coding (LeetCode & CodeChef)**  
 ✅ **Building MERN Stack Projects**  
 ✅ **Exploring DevOps & Cloud Computing**  
-✅ **AI/ML & Open Source Contributions**  
+✅ **Open Source Contributions**  
 
 ---
 
