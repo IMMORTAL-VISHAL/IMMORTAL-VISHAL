@@ -45,9 +45,9 @@ I love building scalable and efficient web applications, solving **DSA problems*
 ---
 
 ## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IMMORTAL-VISHAL&theme=radical" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IMMORTAL-VISHAL&theme=radical" alt="GitHub Streak">
+</div>
 
 ---
 
