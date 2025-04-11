@@ -13,11 +13,11 @@ I love building scalable and efficient web applications, solving **DSA problems*
 ## 🛠 Tech Stack  
 ### 🚀 Languages & Frameworks  
 🔹 **Languages**: JavaScript, C++, Python  
-🔹 **Frontend**: React.js, HTML, CSS, Tailwind,  
+🔹 **Frontend**: React.js, HTML, CSS, Tailwind, Redux,  
 🔹 **Backend**: Node.js, Express.js, Django  
 
 ### 🗄️ Databases & Cloud  
-🔹 **Databases**: MongoDB, SQL  
+🔹 **Databases**: MongoDB, SQL, MySQL 
 🔹 **Cloud & DevOps**: AWS, Docker, CI/CD  
 
 ### ⚙️ Tools & Others  
