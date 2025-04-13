@@ -17,8 +17,8 @@ I love building scalable and efficient web applications, solving **DSA problems*
 🔹 **Backend**: Node.js, Express.js, Django  
 
 ### 🗄️ Databases & Cloud  
-🔹 **Databases**: MongoDB, SQL, MySQL,
-🔹 **Cloud & DevOps**: AWS, Docker, CI/CD  
+🔹 **Databases**: MongoDB, SQL, MySQL.
+🔹 **Cloud & DevOps**: AWS, Docker, CI/CD. 
 
 ### ⚙️ Tools & Others  
 🔹 **Version Control**: Git, GitHub  
