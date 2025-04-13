@@ -18,6 +18,7 @@ I love building scalable and efficient web applications, solving **DSA problems*
 
 ### 🗄️ Databases & Cloud  
 🔹 **Databases**: MongoDB, SQL, MySQL 
+
 🔹 **Cloud & DevOps**: AWS, Docker, CI/CD  
 
 ### ⚙️ Tools & Others  
